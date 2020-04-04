@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 081B-14D9
-
- Directory of C:\Users\Chiemelie\Desktop\project
-
-04/04/2020  07:12 AM    <DIR>          .
-04/04/2020  07:12 AM    <DIR>          ..
-04/04/2020  07:12 AM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  17,202,823,168 bytes free
+Hello World
